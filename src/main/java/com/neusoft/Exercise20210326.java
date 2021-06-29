@@ -2,12 +2,12 @@ package com.neusoft;
 
 import java.util.regex.Pattern;
 
-/*
+/**
  *  金融第一研发中心 每周一练（20210326）
  */
 public class Exercise20210326 {
 
-    /*
+    /**
      *  写一个程序，任意一个字符串作为传入参数，判断传入的字符串，
      *  分别统计这个字符串中英文字母、空格、数字和其他字符的个数，并输出。
      * @param inputString 输入的字符串

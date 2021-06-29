@@ -8,12 +8,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/*
+/**
  *  金融第一研发中心 每周一练（20210402）
  */
 public class Exercise20210402 {
 
-    /*
+    /**
      * 背景描述:
      * 已知一个文件夹（C:\temp\），里面存放不定数量的dat文件。
      * 有一个固定的配置文件C:\test.xml，里面设置了想要读取的文件名（文件名是物理文件名，

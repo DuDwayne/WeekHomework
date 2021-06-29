@@ -1,10 +1,9 @@
 package com.neusoft;
 
-import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.util.Random;
 
-/*
+/**
  *  金融第一研发中心 每周一练（20210430）
  */
 public class Exercise20210430 {
@@ -22,7 +21,7 @@ public class Exercise20210430 {
      * 小果，大果，特级果分别在这车樱桃中的占比是多少？
      */
 
-    /*
+    /**
      * 生成一车樱桃，大小10-20g随机
      */
     public static int[] random() {
@@ -34,7 +33,7 @@ public class Exercise20210430 {
         return cherrys;
     }
 
-    /*
+    /**
      * 计算得到的樱桃结果
      */
     public static void resultCalculate(int[] cherrys) {

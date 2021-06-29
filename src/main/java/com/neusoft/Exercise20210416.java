@@ -1,15 +1,15 @@
 package com.neusoft;
 
-/*
+/**
  *  金融第一研发中心 每周一练（20210416）
  */
 public class Exercise20210416 {
 
-    /*
+    /**
      * 写一个程序，它能够计算x到y的总和，其中x不一定比y小。 注：x和y是任意数字正整数。
      *
-     * @param x
-     * @param y
+     * @param x 数字x
+     * @param y 数字y
      * @return sum
      */
     public static int sumXToY_A(int x, int y) {
@@ -29,11 +29,11 @@ public class Exercise20210416 {
         return sum;
     }
 
-    /*
+    /**
      * 写一个程序，它能够计算x到y的总和，其中x不一定比y小。 注：x和y是任意数字正整数。
      *
-     * @param x
-     * @param y
+     * @param x 数字x
+     * @param y 数字y
      * @return sum
      */
     public static int sumXToY_B(int x, int y) {

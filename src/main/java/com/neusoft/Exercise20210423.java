@@ -1,13 +1,12 @@
 package com.neusoft;
 
-/*
+/**
  *  金融第一研发中心 每周一练（20210423）
  */
 public class Exercise20210423 {
 
-    /*
+    /**
      * 计算一天之中，所有时针和分针重合的时间。
-     *
      */
     public static void countCoincide() {
 
